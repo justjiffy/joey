@@ -1,3 +1,3 @@
-For my brother and his art. 
+For my brother and his art... 
 
--J.T. (2021)
+J.T. (2021)
