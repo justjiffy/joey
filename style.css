@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+  max-width: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+#front {
+  margin-top: -10px;
+  opacity: 1;
+  transition: opacity 1s;
+}
+
+#front:hover {
+  opacity: 0;
+}
