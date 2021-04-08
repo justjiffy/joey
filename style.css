@@ -16,7 +16,7 @@ img {
   border-radius: 20px;
 }
 
-#front {
+#front, #front:visited {
   transition: opacity 0.3s linear;
 }
 #front:hover, #front:active {
